@@ -2,7 +2,7 @@
 
 A comprehensive PyQt5-based GUI application for simulating analog pulse modulation techniques including PAM (Pulse Amplitude Modulation), Flat-Top PAM, PWM (Pulse Width Modulation), and PPM (Pulse Position Modulation) with complete modulation and demodulation analysis.
 
-[![Watch the video](images/youtube_window_1.png)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the video](images/youtube_window_1.png)](https://www.youtube.com/embed/EMaJe0p-LCI?si=w7WT1rVoD1aHonX0)
 
 ## 📋 Description
 

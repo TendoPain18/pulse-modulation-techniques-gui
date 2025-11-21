@@ -12,8 +12,8 @@ The application includes complete modulation/demodulation algorithms implemented
 
 <br>
 <div align="center">
-  <a href="https://codeload.github.com/TendoPain18/pulse-modulation-techniques-gui/legacy.zip/main">
-    <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
+  <a href="https://github.com/TendoPain18/pulse-modulation-techniques-gui/raw/main/dist/pulse-modulation-app.rar">
+    <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
   </a>
 </div>
 
@@ -500,8 +500,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <br>
 <div align="center">
-  <a href="https://codeload.github.com/TendoPain18/pulse-modulation-techniques-gui/legacy.zip/main">
-    <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
+  <a href="https://github.com/TendoPain18/pulse-modulation-techniques-gui/raw/main/dist/pulse-modulation-app.rar">
+    <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
   </a>
 </div>
 
